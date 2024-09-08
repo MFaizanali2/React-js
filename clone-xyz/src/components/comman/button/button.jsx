@@ -1,5 +1,5 @@
 import './button.css'
-const button = () =>{
+const Button = () =>{
     return <button>click me</button>
 }
-export default button;
+export default Button;
