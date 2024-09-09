@@ -1,5 +1,5 @@
 
-// import Button from '../comman/button/Button'
+import Button from '../comman/button/Button'
 import './footer.css'
 function Footer (){
     return(
